@@ -1,0 +1,6 @@
+Endereço eletrônico Censo 2010
+
+ftp://ftp.ibge.gov.br/
+
+ftp://ftp.ibge.gov.br/Censos/Censo_Demografico_2010/
+
