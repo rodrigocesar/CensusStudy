@@ -8,9 +8,9 @@
 ## funcao para baixar os dados da amostra do site do IBGE
 source('DownloadData.R') 
 
-source('RemovePunct.R')
 ## funcao para ler as tabelas
 source('ReadBigTable.R') 
+
 ## funcao para extrair os dados por municipio
 source('ExtractData.R') 
 
